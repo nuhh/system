@@ -1,0 +1,7 @@
+<?php
+
+	/**
+	 * Kesinleşmiş yönlendirmeler
+	 */
+	
+	return [];
